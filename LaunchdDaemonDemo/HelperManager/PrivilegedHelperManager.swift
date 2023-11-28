@@ -8,8 +8,6 @@
 import AppKit
 import Cocoa
 import ServiceManagement
-import RxSwift
-import RxCocoa
 
 @objcMembers
 class PrivilegedHelperManager: NSObject {
